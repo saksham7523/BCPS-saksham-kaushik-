@@ -14,3 +14,4 @@ Linux equivalents: hostname, uname -a, date, ip addr, ping,
 traceroute, nslookup/dig and ss.
 
 Run each command on your own computer and attach screenshots of output.
+git remote add origin https://github.com/navneetkaur-26/BCPS-navneet.gitgit init 
